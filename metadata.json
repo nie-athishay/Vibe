@@ -1,0 +1,6 @@
+{
+  "name": "PrintQ – Smart College Printing Queue System",
+  "description": "A smart college printing queue and shop operator management dashboard with real-time wait estimation and rush-hour urgent job prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
